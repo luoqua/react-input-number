@@ -1,5 +1,5 @@
 # react-input-number
 
-npm install
+yarn install
 
 npm run start
